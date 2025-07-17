@@ -14,6 +14,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Chandrayaan-2](https://img.shields.io/badge/Chandrayaan--2-OHRC_Imagery-blueviolet?style=for-the-badge)
 ![Shape-from-Shading](https://img.shields.io/badge/Shape--from--Shading-Physics--Based_Modeling-9c27b0?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-3C3C3C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 
 
