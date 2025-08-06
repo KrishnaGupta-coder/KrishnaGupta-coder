@@ -27,8 +27,6 @@
 
 🌱 Learning advanced deep learning, distributed systems, and edge-AI deployment.
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/krishna-gupta333) or DM me on [Instagram](https://instagram.com/1k.r.i.s.h.n.a._)
-
 ---
 
 ## 🌐 Connect with me:
