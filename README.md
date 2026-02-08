@@ -13,17 +13,10 @@
 
 ---
 
-🚀 Passionate about building futuristic systems that blend **AI**, **space-tech**, and **embedded intelligence**.
-
-🔭 Currently leading two ambitious projects:
-- 🧠 **TimeTwin**: AI-powered second brain for capturing & recalling ideas
-- 🌑 **Decoding Shadows**: AI-based lunar terrain mapping from Chandrayaan-2 OHRC imagery
-
 💡 I love working on:
 - AI/ML & Computer Vision
-- Geospatial Intelligence & Shape-from-Shading
 - Gesture-based Automation
-- Real-world integrations (IoT, Arduino, ESP32)
+- Cybersecurity
 
 🌱 Learning advanced deep learning, distributed systems, and edge-AI deployment.
 
@@ -45,7 +38,6 @@
 ### Web Dev & Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI/ML:
@@ -54,12 +46,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### Geospatial & Research:
-![QGIS](https://img.shields.io/badge/QGIS-589632.svg?style=for-the-badge&logo=qgis&logoColor=white)
-![CesiumJS](https://img.shields.io/badge/CesiumJS-4A90E2.svg?style=for-the-badge&logo=cesium&logoColor=white)
-![Shape-from-Shading](https://img.shields.io/badge/Shape--from--Shading-Physics--Based_Modeling-9c27b0?style=for-the-badge)
-![Chandrayaan-2](https://img.shields.io/badge/Chandrayaan--2-OHRC_Imagery-blueviolet?style=for-the-badge)
 
 ### Hardware:
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -83,7 +69,6 @@
 
 ## 🧭 Quick Facts
 - 🏫 College: Arya College of Engineering & IT, Jaipur
-- 🎯 Focus: Blending AI + Space-tech + Embedded Systems
 - 📈 Goal: Build tools that feel like magic and work at scale
 - 📬 Open to internships, collaborations, and mentorships
 
