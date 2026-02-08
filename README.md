@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
 
-<h3 align="center">AI Explorer • Hardware Hacker • Open Source Contributor</h3>
+<h3 align="center">Programmer • AI&ML expert  • Ethical Hacker</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/krishnaGupta-coder/krishnaGupta-coder/main/pic1" alt="My Dev Desk" width="700"/>
