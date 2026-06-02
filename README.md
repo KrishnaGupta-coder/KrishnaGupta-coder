@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
-<h3 align="center">AI & ML Engineer • Full-Stack Developer • Computer Vision Enthusiast</h3>
+<h3 align="center">AI & ML Engineer • Multifaceted Professinal • Computer Vision Engineer</h3>
 
 <p align="center">
   <img src="banner.gif" alt="Krishna's 3D AI Workspace" width="850" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
