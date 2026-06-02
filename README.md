@@ -34,11 +34,6 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** 
 > - Utilizes L2-normalized embeddings matched against a **Qdrant Vector Database** for sub-millisecond facial search.
 > - Features automatic database synchronization and multi-camera spatial tracking.
 
-#### 🎓 **CampusHub** — *Academic Workflow Management*
-> **A streamlined project and submission management system** designed for academic institutions.
-> - Automates document verification, task deadlines, and project submissions.
-> - Built to optimize communication between faculty mentors and student teams.
-
 ---
 
 ### 🛠️ Technical Stack
