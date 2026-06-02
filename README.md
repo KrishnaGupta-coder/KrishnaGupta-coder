@@ -6,7 +6,7 @@
 <h3 align="center">AI & ML Engineer • Full-Stack Developer • Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Krishna's 3D AI Workspace" width="850" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
+  <img src="banner.gif" alt="Krishna's 3D AI Workspace" width="850" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
 </p>
 
 ---
@@ -38,10 +38,6 @@ I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** 
 > **A streamlined project and submission management system** designed for academic institutions.
 > - Automates document verification, task deadlines, and project submissions.
 > - Built to optimize communication between faculty mentors and student teams.
-
-#### 📅 **TimeTwin** — *Predictive Schedule Optimizer*
-> **An AI-powered calendar and schedule planning tool** that uses predictive models to optimize daily workflows.
-> - Analyzes historical tasks to predict delays and dynamically suggest optimal scheduling windows.
 
 ---
 
