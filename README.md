@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Header View Counter Badge (Linked to profile so clicking does not open broken camo tab) -->
-  <a href="https://github.com/KrishnaGupta-coder">
-    <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <!-- Profile Views Counter Badge (Displays your live visitor count directly on the badge) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=Profile%20views&color=7928ca&style=flat-square" alt="Profile Views" />
+  </p>
 
-  <br/><br/>
+  <!-- Animated Typing SVG (Single-line dynamic typewriter cycle - never overlaps or cuts off) -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=50&lines=Hi%2C+I'm+Krishna+Gupta+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%26+HCI+Specialist+%F0%9F%91%81%EF%B8%8F;Building+Scalable+Intelligent+Systems+%F0%9F%9A%80" alt="Krishna Gupta Typing SVG" />
+  </p>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://krishna-gupta-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi%2C+I'm+Krishna+Gupta+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%26+HCI+Innovator+%F0%9F%91%81%EF%B8%8F;Building+Scalable+Intelligent+Systems+%F0%9F%9A%80" alt="Krishna Gupta Typing SVG" />
-  </a>
+  <br/>
 
-  <!-- Banner GIF with Clean Rounded Styling -->
+  <!-- Banner GIF with Clean Rounded Styling & Box Shadow -->
   <p align="center">
     <img src="banner.gif" alt="Krishna's AI & Engineering Workspace" width="92%" style="border-radius: 14px; box-shadow: 0 10px 40px rgba(121, 40, 202, 0.35);" />
   </p>
