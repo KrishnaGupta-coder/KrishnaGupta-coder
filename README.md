@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- Header View Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="Profile Views" />
+  <!-- Header View Counter Badge (Linked to profile so clicking does not open broken camo tab) -->
+  <a href="https://github.com/KrishnaGupta-coder">
+    <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="Profile Views" />
+  </a>
 
   <br/><br/>
 
@@ -49,14 +51,6 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
 - 🧠 **Primary Focus**: Designing gesture-controlled human-computer interaction (HCI), vector-similarity search pipelines, and automated intelligence agents.
 - 🎯 **Engineering Philosophy**: Building resilient systems that make complex AI feel instantaneous and seamless to use.
 - 🔭 **Current Deep Dive**: Sub-millisecond vector indexing with **Qdrant**, edge model quantization, and distributed AI pipelines.
-
----
-
-### 🏆 GitHub Trophies Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KrishnaGupta-coder&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
-</div>
 
 ---
 
