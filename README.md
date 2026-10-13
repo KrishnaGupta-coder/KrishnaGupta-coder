@@ -1,9 +1,5 @@
 <div align="center">
 
-  <!-- Profile Views Counter Badge (Displays your live visitor count directly on the badge) -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=Profile%20views&color=7928ca&style=flat-square" alt="Profile Views" />
-  </p>
 
   <!-- Animated Typing SVG (Single-line dynamic typewriter cycle - never overlaps or cuts off) -->
   <p align="center">
