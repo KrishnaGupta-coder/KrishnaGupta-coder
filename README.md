@@ -1,101 +1,186 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=Profile%20views&color=5725d1&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Krishna Gupta</h1>
-<h3 align="center">AI & ML Engineer • Full Stack Developer • Computer Vision Engineer</h3>
+  <!-- Header View Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=KrishnaGupta-coder&label=PROFILE%20VIEWS&color=7928ca&style=for-the-badge" alt="Profile Views" />
 
-<p align="center">
-  <img src="banner.gif" alt="Krishna's 3D AI Workspace" width="850" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
-</p>
+  <br/><br/>
+
+  <!-- Animated Typing SVG -->
+  <a href="https://krishna-gupta-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi%2C+I'm+Krishna+Gupta+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+%26+HCI+Innovator+%F0%9F%91%81%EF%B8%8F;Building+Scalable+Intelligent+Systems+%F0%9F%9A%80" alt="Krishna Gupta Typing SVG" />
+  </a>
+
+  <!-- Banner GIF with Clean Rounded Styling -->
+  <p align="center">
+    <img src="banner.gif" alt="Krishna's AI & Engineering Workspace" width="92%" style="border-radius: 14px; box-shadow: 0 10px 40px rgba(121, 40, 202, 0.35);" />
+  </p>
+
+  <!-- Social Quick Links -->
+  <p align="center">
+    <a href="https://krishna-gupta-portfolio.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-7928CA?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/krishna-gupta333" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:16krishnagupta06@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/1k.r.i.s.h.n.a._" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
-### 💫 About Me
-I'm a B.Tech student specializing in **Artificial Intelligence & Data Science** (2024–2028) at Arya College of Engineering & IT. I love building intelligent, gesture-driven systems, predictive pipelines, and computer vision models that feel like magic and operate seamlessly.
+### ⚡ Executive Summary
 
-- 💡 **I love working on**: Artificial Intelligence, Machine Learning, and Computer Vision.
-- 🚀 **Core Goal**: Building highly scalable AI tools and immersive human-computer interaction (HCI) applications.
-- 🌱 **Currently Learning**: Advanced Deep Learning architectures, distributed system scaling, and edge-AI model deployment.
+```yaml
+Name: Krishna Gupta
+Focus: Artificial Intelligence, Computer Vision & Edge Systems
+Degree: B.Tech in AI & Data Science (2024–2028)
+Institution: Arya College of Engineering & IT, Jaipur
+Location: Jaipur, Rajasthan, India
+Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
+```
 
----
-
-### 📂 Featured Projects
-
-#### 🖐️ **ZeroTouchSec** — *Gesture-Driven AI Automation*
-> **An innovative Human-Computer Interaction (HCI) system** designed to control laptop actions using real-time hand gestures without touching the device.
-> - Developed computer vision models utilizing PyTorch and OpenCV to track and classify hand postures.
-> - Implemented system-level triggers enabling seamless, touchless navigation, media control, and application execution.
-> - Designed with secure cloud operations and local surveillance tracking in mind.
-
-#### 🎥 **AI-Based Smart Campus Attendance & Surveillance**
-> **A multi-camera real-time facial recognition attendance system** designed to track and register students dynamically.
-> - Processes live camera feeds, extracting face regions and scaling inputs to high-precision 1280x1280 resolutions.
-> - Utilizes L2-normalized embeddings matched against a **Qdrant Vector Database** for sub-millisecond facial search.
-> - Features automatic database synchronization and multi-camera spatial tracking.
+- 🧠 **Primary Focus**: Designing gesture-controlled human-computer interaction (HCI), vector-similarity search pipelines, and automated intelligence agents.
+- 🎯 **Engineering Philosophy**: Building resilient systems that make complex AI feel instantaneous and seamless to use.
+- 🔭 **Current Deep Dive**: Sub-millisecond vector indexing with **Qdrant**, edge model quantization, and distributed AI pipelines.
 
 ---
 
-### 🛠️ Technical Stack
+### 🏆 GitHub Trophies Showcase
 
-<table width="100%">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KrishnaGupta-coder&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
+### 🚀 Flagship Engineering Projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <h3>🖐️ <a href="https://github.com/KrishnaGupta-coder/ZeroTouchSec">ZeroTouchSec</a></h3>
+      <p><b>Gesture-Driven AI & Touchless System Automation</b></p>
+      <ul>
+        <li>HCI framework that enables complete system-level operation using real-time computer vision without physical contact.</li>
+        <li>Combines <b>PyTorch</b> and <b>OpenCV</b> for low-latency posture tracking, custom gesture triggers, and secure surveillance.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 AI, ML & Databases</h4>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Qdrant-FF4B4B?style=for-the-badge&logo=qdrant&logoColor=white" />
+      <h3>🛰️ <a href="https://github.com/KrishnaGupta-coder/SDA---Smart-Disaster-Agent">Smart Disaster Agent (SDA)</a></h3>
+      <p><b>Predictive AI for Satellite & Live Crisis Response</b></p>
+      <ul>
+        <li>Real-time hazard prediction engine analyzing satellite telemetry and live sensor streams to predict natural hazards.</li>
+        <li>Generates automated emergency dispatch suggestions and evacuation routing corridors during crisis events.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Telemetry-7928CA?style=flat-square" />
+        <a href="https://sda-smart-disaster-agent.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h4>🔧 Tools & Workflows</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/KrishnaGupta-coder/JavaLabPortal">JavaLabPortal</a></h3>
+      <p><b>Enterprise 3-Tier MVC Dynamic Academic Portal</b></p>
+      <ul>
+        <li>Robust role-based portal built on Java EE architecture with JSP, Servlets, and connection-pooled JDBC.</li>
+        <li>Full student and faculty management, automated grade feedback loops, and production-deployed containerized setup.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Java_EE-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <a href="https://javalabportal-production.up.railway.app" target="_blank"><img src="https://img.shields.io/badge/Live_Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧬 <a href="https://github.com/KrishnaGupta-coder/Artificial-Life-Simulator">Artificial Life Simulator</a></h3>
+      <p><b>Biological Simulation & Evolutionary Algorithms in C</b></p>
+      <ul>
+        <li>High-performance simulation of autonomous biological agents navigating environmental pressures and resource constraints.</li>
+        <li>Implements custom genetic drift, natural selection mechanisms, and real-time state calculation in pure low-level C.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Genetic_Sim-22C55E?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🛠️ Technical Arsenal
 
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Artificial Intelligence & Computer Vision** | `PyTorch` `TensorFlow` `OpenCV` `MediaPipe` `Qdrant Vector DB` `NumPy` `Pandas` `Scikit-Learn` |
+| **Languages & Systems Programming** | `Python` `C++` `C` `Java` `TypeScript` `JavaScript` `SQL` |
+| **Full Stack & Modern Web** | `React` `Next.js` `Node.js` `Express.js` `Java EE / JSP / Servlets` `HTML5` `CSS3` `TailwindCSS` |
+| **Databases & Vector Storage** | `Qdrant` `PostgreSQL` `MySQL` `MongoDB` `JDBC` |
+| **DevOps, Tools & Cloud** | `Git` `GitHub Actions` `Docker` `Linux` `Vercel` `Railway` `VS Code` `Jupyter` |
+
+<br/>
+
+<!-- Modern Badge Stack -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGupta-coder&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Krishna's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGupta-coder&theme=tokyonight&hide_border=false&layout=compact" alt="Krishna's Top Languages" height="180" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,ts,js,pytorch,tensorflow,opencv,react,nextjs,nodejs,mysql,postgres,mongodb,docker,git,github,linux,vercel&perline=10" alt="Tech Stack Icons" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaGupta-coder&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
-### 🌐 Connect With Me
+### 🐍 Dynamic Contribution Snake
 
-<p align="left">
-  <a href="https://linkedin.com/in/krishna-gupta333" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/1k.r.i.s.h.n.a._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<!-- Snake contribution graph animated automatically via GitHub Actions -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaGupta-coder/KrishnaGupta-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaGupta-coder/KrishnaGupta-coder/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/KrishnaGupta-coder/KrishnaGupta-coder/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
-### 🧭 Quick Facts
-- 🏫 **College**: Arya College of Engineering & IT, Jaipur
-- 📈 **Core Objective**: Build tools that feel like magic and scale effortlessly.
-- 📬 **Availability**: Open to internships, research collaborations, and open-source contributions.
+### 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGupta-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7928ca&icon_color=a855f7" alt="Krishna's GitHub Stats" height="175" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaGupta-coder&theme=tokyonight&hide_border=true&stroke=7928ca&ring=a855f7&fire=a855f7" alt="GitHub Streak" height="175" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGupta-coder&layout=compact&theme=tokyonight&hide_border=true&title_color=7928ca&langs_count=8" alt="Krishna's Most Used Languages" width="600" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with precision & dynamic automation • Crafted for <b>Krishna Gupta</b> • Jaipur, India</sub>
+</div>
