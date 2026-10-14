@@ -175,3 +175,4 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
   <sub>Designed with precision & dynamic automation • Crafted for <b>Krishna Gupta</b> • Jaipur, India</sub>
 </div>
 <!-- Co-authored with Devansh Joshi for open source collaboration -->
+<!-- Verified co-authorship collaboration -->
