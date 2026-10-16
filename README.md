@@ -68,16 +68,16 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/KrishnaGupta-coder/SDA---Smart-Disaster-Agent">Smart Disaster Agent (SDA)</a></h3>
-      <p><b>Predictive AI for Satellite & Live Crisis Response</b></p>
+      <h3>🧭 <a href="https://github.com/KrishnaGupta-coder/DocuVector-AI">DocuVector AI</a></h3>
+      <p><b>In-Browser High-Dimensional Vector Embeddings & Semantic Retrieval</b></p>
       <ul>
-        <li>Real-time hazard prediction engine analyzing satellite telemetry and live sensor streams to predict natural hazards.</li>
-        <li>Generates automated emergency dispatch suggestions and evacuation routing corridors during crisis events.</li>
+        <li>Client-side vector search engine computing sublinear TF-IDF embeddings and sub-millisecond Cosine Similarity.</li>
+        <li>Features interactive 2D polar vector space projection radar and concept token highlights with zero API costs.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Telemetry-7928CA?style=flat-square" />
-        <a href="https://sda-smart-disaster-agent.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Vector_Search-Cosine_Sim-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/2D_Projection-Radar-8B5CF6?style=flat-square" />
+        <a href="https://krishnagupta-coder.github.io/DocuVector-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -96,16 +96,16 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://github.com/KrishnaGupta-coder/Artificial-Life-Simulator">Artificial Life Simulator</a></h3>
-      <p><b>Biological Simulation & Evolutionary Algorithms in C</b></p>
+      <h3>🛡️ <a href="https://github.com/KrishnaGupta-coder/PromptShield-AI">PromptShield AI</a></h3>
+      <p><b>Autonomous LLM Threat Scanner & Prompt Injection Defense</b></p>
       <ul>
-        <li>High-performance simulation of autonomous biological agents navigating environmental pressures and resource constraints.</li>
-        <li>Implements custom genetic drift, natural selection mechanisms, and real-time state calculation in pure low-level C.</li>
+        <li>Real-time security analyzer evaluating inputs against 6 exploit taxonomies (Overrides, DAN Jailbreaks, Delimiters).</li>
+        <li>Dynamic threat radar calculating 0–100% exploit risk scores with automated prompt sanitization and hardening.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms-00599C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Genetic_Sim-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM_Security-OWASP_01-EF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/Defense-Sanitizer-7928CA?style=flat-square" />
+        <a href="https://krishnagupta-coder.github.io/PromptShield-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Scanner-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a>
       </p>
     </td>
   </tr>
