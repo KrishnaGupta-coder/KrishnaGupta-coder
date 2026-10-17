@@ -196,7 +196,7 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGupta-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7928ca&icon_color=a855f7" alt="Krishna's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KrishnaGupta-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&title_color=7928ca&icon_color=a855f7" alt="Krishna's GitHub Stats" height="175" />
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaGupta-coder&theme=tokyonight&hide_border=true&stroke=7928ca&ring=a855f7&fire=a855f7" alt="GitHub Streak" height="175" />
