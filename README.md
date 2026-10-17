@@ -113,6 +113,47 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
 
 ---
 
+### ⚡ Daily AI Micro-App Showcase
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>App & Architecture</th>
+      <th>Core Engine</th>
+      <th>Live Deployment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Day 1</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/GestureVision-AI">GestureVision AI</a></b><br/>In-browser spatial hand tracking & gesture telemetry HUD</td>
+      <td><code>MediaPipe</code> <code>WebGL</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/GestureVision-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_App-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 2</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/PromptShield-AI">PromptShield AI</a></b><br/>Autonomous prompt injection defense & LLM threat scanner</td>
+      <td><code>Heuristic Classifier</code> <code>OWASP LLM01</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/PromptShield-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Scanner-7928CA?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 3</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DocuVector-AI">DocuVector AI</a></b><br/>High-dimensional vector embeddings & 2D polar retrieval radar</td>
+      <td><code>Vector Math</code> <code>Sublinear TF-IDF</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/DocuVector-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 4</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/VisionEdge-AI">VisionEdge AI</a></b><br/>60 FPS edge object detection & spatial telemetry HUD</td>
+      <td><code>TensorFlow.js</code> <code>COCO-SSD v2</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/VisionEdge-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_HUD-00F5FF?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 <div align="center">
