@@ -145,9 +145,9 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
     </tr>
     <tr>
       <td><b>Day 4</b></td>
-      <td><b><a href="https://github.com/KrishnaGupta-coder/VisionEdge-AI">VisionEdge AI</a></b><br/>60 FPS edge object detection & spatial telemetry HUD</td>
-      <td><code>TensorFlow.js</code> <code>COCO-SSD v2</code></td>
-      <td><a href="https://krishnagupta-coder.github.io/VisionEdge-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_HUD-00F5FF?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/TokenBudget-AI">TokenBudget AI</a></b><br/>Multi-model LLM tokenizer, cost matrix calculator & prompt compressor</td>
+      <td><code>BPE Tokenizer</code> <code>Prompt Optimizer</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/TokenBudget-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Optimizer-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
     </tr>
   </tbody>
 </table>
