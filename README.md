@@ -145,7 +145,7 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
     </tr>
     <tr>
       <td><b>Day 4</b></td>
-      <td><b><a href="https://github.com/KrishnaGupta-coder/TokenBudget-AI">TokenBudget AI</a></b><br/>Multi-model LLM tokenizer & cost matrix (DeepSeek R1, o1, o3-mini, Claude 3.5, Gemini 2.0)</td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/TokenBudget-AI">TokenBudget AI</a></b><br/>Multi-model LLM tokenizer & cost matrix (Gemini 3.8 Flash, Claude 4.6 Thinking, GPT-OSS 120B, DeepSeek R1)</td>
       <td><code>BPE Tokenizer</code> <code>Prompt Optimizer</code></td>
       <td><a href="https://krishnagupta-coder.github.io/TokenBudget-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Optimizer-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
     </tr>
