@@ -99,7 +99,7 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
       <h3>🛡️ <a href="https://github.com/KrishnaGupta-coder/PromptShield-AI">PromptShield AI</a></h3>
       <p><b>Autonomous LLM Threat Scanner & Prompt Injection Defense</b></p>
       <ul>
-        <li>Real-time security analyzer evaluating inputs against 6 exploit taxonomies (Overrides, DAN Jailbreaks, Delimiters).</li>
+        <li>Real-time security analyzer evaluating inputs against OWASP LLM01 taxonomies (Indirect RAG Poisoning, Tool-Call Delimiters, Zero-Width Unicode Smuggle, DAN Jailbreaks).</li>
         <li>Dynamic threat radar calculating 0–100% exploit risk scores with automated prompt sanitization and hardening.</li>
       </ul>
       <p>
