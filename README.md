@@ -113,7 +113,9 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
 
 ---
 
-### ⚡ Daily AI Micro-App Showcase
+### ⚡ Personal AI OS & Daily Micro-App Showcase
+
+> 🚀 **Launch Unified AI Command Center:** **[krishnagupta-coder.github.io](https://krishnagupta-coder.github.io/)** (`Ctrl+K` Spotlight Launcher + Shared Local Ollama / API Engine)
 
 <table>
   <thead>
@@ -125,6 +127,12 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><b>OS Hub</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/KrishnaGupta-coder.github.io">Krishna.OS Command Center</a></b><br/>Unified Spotlight launcher, shared AI engine config & live research feed</td>
+      <td><code>Ctrl+K OS</code> <code>Ollama / BYO Key</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/" target="_blank"><img src="https://img.shields.io/badge/Launch_OS-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a></td>
+    </tr>
     <tr>
       <td><b>Day 1</b></td>
       <td><b><a href="https://github.com/KrishnaGupta-coder/GestureVision-AI">GestureVision AI</a></b><br/>In-browser spatial hand tracking & gesture telemetry HUD</td>
@@ -148,6 +156,24 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
       <td><b><a href="https://github.com/KrishnaGupta-coder/TokenBudget-AI">TokenBudget AI</a></b><br/>Multi-model LLM tokenizer & cost matrix (Gemini 3.8 Flash, Claude 4.6 Thinking, GPT-OSS 120B, DeepSeek R1)</td>
       <td><code>BPE Tokenizer</code> <code>Prompt Optimizer</code></td>
       <td><a href="https://krishnagupta-coder.github.io/TokenBudget-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Optimizer-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 5</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/ATS-Lens-AI">ATS-Lens AI</a></b><br/>Client-side PDF resume matcher, skill gap radar & impact bullet optimizer</td>
+      <td><code>PDF.js</code> <code>Shared AI Engine</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/ATS-Lens-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_ATS-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 6</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DiagramCraft-AI">DiagramCraft AI</a></b><br/>Plain-English to GitHub-safe Mermaid architect & SVG/PNG exporter</td>
+      <td><code>Mermaid v11</code> <code>Quote Sanitizer</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/DiagramCraft-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Studio-8B5CF6?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Auto</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/AutoPilot-Kit">AutoPilot Kit</a></b><br/>Windows smart folder organizer, AI clipboard hotkey & micro-app scaffolder</td>
+      <td><code>Python</code> <code>PowerShell</code> <code>AHKv2</code></td>
+      <td><a href="https://github.com/KrishnaGupta-coder/AutoPilot-Kit" target="_blank"><img src="https://img.shields.io/badge/View_Toolkit-F59E0B?style=flat-square&logo=github&logoColor=black" /></a></td>
     </tr>
   </tbody>
 </table>
