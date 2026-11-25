@@ -147,8 +147,8 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
     </tr>
     <tr>
       <td><b>Day 3</b></td>
-      <td><b><a href="https://github.com/KrishnaGupta-coder/DocuVector-AI">DocuVector AI</a></b><br/>High-dimensional vector embeddings & 2D polar retrieval radar</td>
-      <td><code>Vector Math</code> <code>Sublinear TF-IDF</code></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DocuVector-AI">DocuVector AI</a></b><br/>Browser PDF/TXT RAG engine with instant TF-IDF &amp; 384D Transformers.js neural embeddings</td>
+      <td><code>Neural 384D</code> <code>Local RAG</code></td>
       <td><a href="https://krishnagupta-coder.github.io/DocuVector-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
     </tr>
     <tr>
@@ -165,14 +165,32 @@ Status: Open for AI/ML Internships & High-Impact Open Source Collaborations
     </tr>
     <tr>
       <td><b>Day 6</b></td>
-      <td><b><a href="https://github.com/KrishnaGupta-coder/DiagramCraft-AI">DiagramCraft AI</a></b><br/>Plain-English to GitHub-safe Mermaid architect & SVG/PNG exporter</td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DiagramCraft-AI">DiagramCraft AI</a></b><br/>Plain-English to GitHub-safe Mermaid architect &amp; SVG/PNG exporter</td>
       <td><code>Mermaid v11</code> <code>Quote Sanitizer</code></td>
       <td><a href="https://krishnagupta-coder.github.io/DiagramCraft-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Studio-8B5CF6?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
     </tr>
     <tr>
+      <td><b>Day 7</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DataScrub-AI">DataScrub &amp; SQLBox AI</a></b><br/>In-browser CSV/JSON cleaner, profiler &amp; interactive AlaSQL query engine</td>
+      <td><code>AlaSQL</code> <code>NL &rarr; SQL</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/DataScrub-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_SQLBox-10B981?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 8</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/StudyForge-AI">StudyForge &amp; ClipOCR AI</a></b><br/>Ctrl+V screenshot OCR, notes summarizer &amp; Anki flashcard generator</td>
+      <td><code>Tesseract.js</code> <code>Anki CSV</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/StudyForge-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Study-8B5CF6?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
+      <td><b>Day 9</b></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/DevVault-AI">DevVault &amp; RegexCron AI</a></b><br/>100% offline JWT decoder, Regex/Cron lab, JSON diff &amp; SHA-256 tools</td>
+      <td><code>Web Crypto</code> <code>Regex/Cron</code></td>
+      <td><a href="https://krishnagupta-coder.github.io/DevVault-AI/" target="_blank"><img src="https://img.shields.io/badge/Live_Vault-00C7B7?style=flat-square&logo=githubpages&logoColor=white" /></a></td>
+    </tr>
+    <tr>
       <td><b>Auto</b></td>
-      <td><b><a href="https://github.com/KrishnaGupta-coder/AutoPilot-Kit">AutoPilot Kit</a></b><br/>Windows smart folder organizer, AI clipboard hotkey & micro-app scaffolder</td>
-      <td><code>Python</code> <code>PowerShell</code> <code>AHKv2</code></td>
+      <td><b><a href="https://github.com/KrishnaGupta-coder/AutoPilot-Kit">AutoPilot Kit</a></b><br/>Windows folder organizer, cache cleaner, repo radar, Win+R launcher &amp; AI hotkeys</td>
+      <td><code>Python</code> <code>PowerShell</code> <code>Win+R</code></td>
       <td><a href="https://github.com/KrishnaGupta-coder/AutoPilot-Kit" target="_blank"><img src="https://img.shields.io/badge/View_Toolkit-F59E0B?style=flat-square&logo=github&logoColor=black" /></a></td>
     </tr>
   </tbody>
